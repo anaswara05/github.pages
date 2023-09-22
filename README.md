@@ -1,5 +1,5 @@
 GITHUB PAGES
 
-### Education 
+### Education   
 currently studing B.Sc Computer Science
 
